@@ -6,13 +6,11 @@ Features :
 1. Use remote execution via ssh
 2. Register Hosts
 3. Manage Hosts :
-     - Restart
-     - List with the resources ( cpu vcore, ram, storage, ip addr )
-     - Reboot
+     - List host (hostname, ip addr, status(on/off) ) with actions ( Reboot, Reset, Shutdown, Delete, Rename, show processes )
      - Manage Processes ( list, kill, restart )
-     - Add New
+     - Add New Host
 4. Dashboard
      - Hosts Statuses
-     - Hosts Resources ( proc, memory, hdd, net )
+     - Hosts Resources ( proc, memory, storage, net, uptime, status(on/off) )
        
        
